@@ -1,0 +1,25 @@
+Install Typescript
+
+yarn add typescript -D
+
+Install Express
+
+yarn add express
+
+Install Types Express
+
+yarn add @types/express -D
+
+inicializar TSC
+
+yarn tsc --init
+
+/**
+* Para criar usuário: name, email, password
+*/
+
+/**
+* Aprendemos:
+* string, number, boolean, object, Array
+* interfaces
+*/
